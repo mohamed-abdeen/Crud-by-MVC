@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.PL", "Demo.PL\Demo.PL.csproj", "{205C84F7-CC02-41BE-AAF7-369BC97B3ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.DAL", "Demo.DAL\Demo.DAL.csproj", "{AE8F73D5-C7DF-4434-8D88-06A1CB7F3AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.BLL", "Demo.BLL\Demo.BLL.csproj", "{3BE95272-0349-4603-888F-0B88366DDE9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{205C84F7-CC02-41BE-AAF7-369BC97B3ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205C84F7-CC02-41BE-AAF7-369BC97B3ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205C84F7-CC02-41BE-AAF7-369BC97B3ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205C84F7-CC02-41BE-AAF7-369BC97B3ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8F73D5-C7DF-4434-8D88-06A1CB7F3AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8F73D5-C7DF-4434-8D88-06A1CB7F3AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8F73D5-C7DF-4434-8D88-06A1CB7F3AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8F73D5-C7DF-4434-8D88-06A1CB7F3AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE95272-0349-4603-888F-0B88366DDE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE95272-0349-4603-888F-0B88366DDE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE95272-0349-4603-888F-0B88366DDE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE95272-0349-4603-888F-0B88366DDE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8632D2D-B734-424B-8E3F-20C95E4221F9}
+	EndGlobalSection
+EndGlobal

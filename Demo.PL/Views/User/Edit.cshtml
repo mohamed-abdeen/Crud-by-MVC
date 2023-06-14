@@ -1,0 +1,21 @@
+﻿@model APPUser
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Update  User</h1>
+
+<form asp-action="Edit">
+    <input hidden asp-for="Id" />
+    <partial name="PartialViews/CreateEditUserPartialView" />
+
+
+    <input type="submit" value="Save" class="btn btn-primary" />
+
+    | <a asp-action="Index" cite="btn btn-light">Back To List</a>
+</form>
+
+@section validationscriptsection{
+
+    <partial name="_ValidationScriptsPartial" />
+}

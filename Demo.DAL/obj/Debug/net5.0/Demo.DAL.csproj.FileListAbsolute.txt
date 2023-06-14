@@ -1,0 +1,15 @@
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\Users\abdeen\source\repos\FirstDemo.Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
